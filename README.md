@@ -1,1 +1,3 @@
-# helloC-
+# helloCSharp  
+
+Discovering C# (console).
